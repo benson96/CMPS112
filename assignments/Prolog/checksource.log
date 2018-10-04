@@ -1,0 +1,3 @@
+checksource: improper character \x0D = ^M (carriage return)
+   file "functions.pl": 116 errors: lines 1--116
+checksource: TOTAL COMPLAINTS: 116
