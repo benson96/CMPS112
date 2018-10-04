@@ -1,5 +1,4 @@
 #!/afs/cats.ucsc.edu/courses/cmps112-wm/usr/smalltalk/bin/gst -f
-"Tian Qiu, tqiu1@ucsc.edu"
 
 nl := Character nl.
 
